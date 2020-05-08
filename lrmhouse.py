@@ -15,7 +15,7 @@ with open('site.csv',"r", newline='') as csvfile:
             print(y)
             z = rows[a]["z"]
             print(z)
-        if rows[a]["name"] == "wzy":
+        if rows[a]["name"] == "lrm":
             xx = rows[a]["x"]
             yy = rows[a]["y"]
             zz = rows[a]["z"]
@@ -24,5 +24,5 @@ with open('site.csv',"r", newline='') as csvfile:
     z = int(z) + int(zz)
 
 
-mc.setBlocks(x, y, z, x + 10, y + 10, z + 10, 2)
+mc.setBlocks(x, y, z, x + 10, y + 10, z + 10, 79)
 mc.setBlocks(x + 1, y + 1, z + 1, x + 9, y + 9, z + 9, 0)
