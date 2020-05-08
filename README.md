@@ -3,8 +3,7 @@
 <<<<<<< HEAD
 # this is gch's part
 
-Hello! this is gch readme txt, you will compare
-with it for a long time.
+Hello! this is gch readme txt
 =======
 
 # this is zkx's part
