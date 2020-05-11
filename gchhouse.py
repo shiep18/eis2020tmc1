@@ -43,3 +43,4 @@ while True:
 
 mc.setBlocks(x, y, z, x + 10, y + 10, z + 10, 79)
 mc.setBlocks(x + 1, y + 1, z + 1, x + 9, y + 9, z + 9, 0)
+print("hello,today is 5.11")

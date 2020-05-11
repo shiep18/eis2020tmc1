@@ -8,9 +8,13 @@
 =======
 # this is gch's part
 
+<<<<<<< HEAD
+Hello! this is gch readme txt
+=======
 Hello! this is gch readme txt, you will compare
 with it for a long time.
 >>>>>>> 8a931db99248f7adbb5844fd4e79fccb17e4845e
+>>>>>>> facf620d87df91e544f95b462ba29c693f983a41
 =======
 
 # this is zkx's part
