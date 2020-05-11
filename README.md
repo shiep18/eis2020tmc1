@@ -25,6 +25,9 @@ wooooo
 =======
 
 hello this is xkn readme txt  
+# this is lrm's part
+=======
+happy everyday
 
 >>>>>>> 6a5017db289c4ff49ec5c7469aa7a6a4bdca93b9
 >>>>>>> 8a931db99248f7adbb5844fd4e79fccb17e4845e
