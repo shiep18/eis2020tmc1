@@ -25,4 +25,5 @@ with open('site.csv',"r", newline='') as csvfile:
 
 
 mc.setBlocks(x, y, z, x + 10, y + 10, z + 10, 79)
-mc.setBlocks(x + 1, y + 1, z + 1, x + 9, y + 9, z + 9, 0)
+mc.setBlocks(x + 1, y + 1, z + 1, x + 9, y + 9, z + 9, 213)
+#修改了材质5/11
