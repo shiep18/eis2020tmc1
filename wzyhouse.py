@@ -19,10 +19,11 @@ with open('site.csv',"r", newline='') as csvfile:
             xx = rows[a]["x"]
             yy = rows[a]["y"]
             zz = rows[a]["z"]
+    mc.player.setPos(x,y,z)
     x = int(x) + int(xx)
     y = int(y) + int(yy)
     z = int(z) + int(zz)
 
-
+print("This is wzy's house")
 mc.setBlocks(x, y, z, x + 10, y + 10, z + 10, 2)
 mc.setBlocks(x + 1, y + 1, z + 1, x + 9, y + 9, z + 9, 0)
