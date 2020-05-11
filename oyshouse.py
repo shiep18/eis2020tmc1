@@ -26,4 +26,4 @@ with open('site.csv',"r", newline='') as csvfile:
 
 mc.setBlocks(x, y, z, x + 10, y + 7, z + 10, 79)
 mc.setBlocks(x + 1, y + 1, z + 1, x + 6, y + 9, z + 9, 0)
-
+#2020-5-11 oys 
